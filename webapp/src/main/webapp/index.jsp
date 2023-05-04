@@ -19,7 +19,7 @@
         rel="stylesheet">
     <!-- css file -->
     <link rel="stylesheet" href="css/style.css">
-    <title>Osamah Alhammdi</title>
+    <title>Osamah</title>
 </head>
 
 <body>
