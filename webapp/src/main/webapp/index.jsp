@@ -19,14 +19,14 @@
         rel="stylesheet">
     <!-- css file -->
     <link rel="stylesheet" href="css/style.css">
-    <title>Osamah Alhammadi</title>
+    <title>Osamah</title>
 </head>
 
 <body>
     <!-- Start Header -->
     <div class="header" id="header">
         <div class="container">
-            <a href="#" class="logo">Osamah</a>
+            <a href="#" class="logo">Osamah Alhammadi</a>
             <ul class="main-nav">
                 <li><a href="#articles">Articles</a></li>
                 <li><a href="#gallery">Gallery</a></li>
