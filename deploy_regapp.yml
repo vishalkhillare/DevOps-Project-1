@@ -1,5 +1,5 @@
 ---
-- hosts: dockerhost
+- hosts: ansible
 
   tasks:
    - name: stop existing container
